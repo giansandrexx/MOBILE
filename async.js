@@ -20,6 +20,7 @@ const pizzaPromise = () => {
 // Calling the function with a promise
 // Use .then() to handle the resolved promise
 // Use .catch() to handle the rejected promise
+// Created by Gian
 
 pizzaPromise()
     .then((result) => {
